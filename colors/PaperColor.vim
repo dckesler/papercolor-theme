@@ -257,6 +257,7 @@ if s:is_dark " DARK VARIANT
 
   " Basics:
   let s:foreground   = ['#d0d0d0', '251']
+  let s:specialcolor = ['#EC5D00', '202']
   let s:background   = ['#262626', '234']
   let s:selection    = ['#3a3a3a', '236']
   let s:nontext      = ['#444444', '237']
